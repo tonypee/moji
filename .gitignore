@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+build
+/s3Config.json
+/stats.json
+.idea
+npm-debug.log
